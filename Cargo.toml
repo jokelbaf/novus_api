@@ -1,3 +1,5 @@
+cargo-features = ["edition2024"]
+
 [package]
 name = "novus_api"
 version = "0.1.0"
